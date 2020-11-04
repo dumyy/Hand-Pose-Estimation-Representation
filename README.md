@@ -10,3 +10,5 @@ Representation of Hand Pose
 ## 4 (3D heatmap)
 
 ## 5 (location map)
+
+## 6 (mesh-mano)
